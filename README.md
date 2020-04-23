@@ -1,1 +1,1 @@
-# Income-Classification-using-SKlearn-Pipelines
+# Income-Classification-using-SKlearn-Pipelines and SMOTE()
